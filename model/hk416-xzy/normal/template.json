@@ -1,0 +1,74 @@
+{
+  "Shake_01": [
+    {
+      "name": "摇动",
+      "file": "motions/shake.motion3.json",
+      "language": "en"
+    }
+  ],
+  "Tap_mouse": [
+    {
+      "name": "mouse",
+      "file": "motions/wait_1.motion3.json"
+    }
+  ],
+  "Start_load": [
+    {
+      "name": "登录",
+      "file": "motions/login.motion3.json",
+      "text": "贵安"
+    }
+  ],
+  "Tick": [
+    {
+      "file": "motions/wait_2.motion3.json"
+    }
+  ],
+  "Tap_dress1": [
+    {
+      "file": "motions/touch_5.motion3.json",
+      "text": "贵安",
+      "text_delay": 200
+    }
+  ],
+  "Tap_dress2": [
+    {
+      "file": "motions/touch_1.motion3.json",
+      "text": "嗯？",
+      "text_delay": 200
+    }
+  ],
+  "Tap_hand": [
+    {
+      "name": "hand",
+      "file": "motions/wedding.motion3.json",
+      "text": "来和我跳一支舞吗？",
+      "text_delay": 500,
+      "text_duration": 3000
+    }
+  ],
+  "Tap_bar": [
+    {
+      "name": "bar",
+      "file": "motions/touch_3.motion3.json",
+      "file_loop": true,
+      "text": "枪毙还是炮决，自己选",
+      "text_delay": 500,
+      "text_duration": 4000
+    }
+  ],
+  "Tap_head": [
+    {
+      "name": "head",
+      "file": "motions/touch_4.motion3.json",
+      "text": "（痴汉笑）"
+    }
+  ],
+  "Tap_body": [
+    {
+      "name": "body",
+      "file": "motions/wedding_touch.motion3.json",
+      "text": "吼吼，那不妨更近一点吧！"
+    }
+  ]
+}
